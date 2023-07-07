@@ -1,0 +1,58 @@
+F:\Projects\University\2 курс\2 семестър\Тестване на софтуер\Selenium (upr 10)\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+F:\Projects\University\2 курс\2 семестър\Тестване на софтуер\Selenium (upr 10)\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+F:\Projects\University\2 курс\2 семестър\Тестване на софтуер\Selenium (upr 10)\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+F:\Projects\University\2 курс\2 семестър\Тестване на софтуер\Selenium (upr 10)\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+F:\Projects\University\2 курс\2 семестър\Тестване на софтуер\Selenium (upr 10)\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+F:\Projects\University\2 курс\2 семестър\Тестване на софтуер\Selenium (upr 10)\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+F:\Projects\University\2 курс\2 семестър\Тестване на софтуер\Selenium (upr 10)\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+F:\Projects\University\2 курс\2 семестър\Тестване на софтуер\Selenium (upr 10)\UnitTestProject1\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+F:\Projects\University\2 курс\2 семестър\Тестване на софтуер\Selenium (upr 10)\UnitTestProject1\bin\Debug\WebDriver.dll
+F:\Projects\University\2 курс\2 семестър\Тестване на софтуер\Selenium (upr 10)\UnitTestProject1\bin\Debug\WebDriver.Support.dll
+F:\Projects\University\2 курс\2 семестър\Тестване на софтуер\Selenium (upr 10)\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+F:\Projects\University\2 курс\2 семестър\Тестване на софтуер\Selenium (upr 10)\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+F:\Projects\University\2 курс\2 семестър\Тестване на софтуер\Selenium (upr 10)\UnitTestProject1\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+F:\Projects\University\2 курс\2 семестър\Тестване на софтуер\Selenium (upr 10)\UnitTestProject1\bin\Debug\WebDriver.xml
+F:\Projects\University\2 курс\2 семестър\Тестване на софтуер\Selenium (upr 10)\UnitTestProject1\bin\Debug\WebDriver.Support.xml
+F:\Projects\University\2 курс\2 семестър\Тестване на софтуер\Selenium (upr 10)\UnitTestProject1\obj\Debug\UnitTestProject1.csprojAssemblyReference.cache
+F:\Projects\University\2 курс\2 семестър\Тестване на софтуер\Selenium (upr 10)\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+F:\Projects\University\2 курс\2 семестър\Тестване на софтуер\Selenium (upr 10)\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
+F:\Projects\University\2 курс\2 семестър\Тестване на софтуер\Selenium (upr 10)\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+F:\Projects\University\2 курс\2 семестър\Тестване на софтуер\Selenium (upr 10)\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+F:\Projects\University\2 курс\2 семестър\Тестване на софтуер\Selenium (upr 10)\UnitTestProject1\bin\Debug\SeleniumExtras.PageObjects.dll
+F:\Projects\University\2 курс\2 семестър\Тестване на софтуер\Selenium (upr 10)\UnitTestProject1\bin\Debug\SeleniumExtras.WaitHelpers.dll
+F:\Projects\University\DIPLOMA\Testing\seleniumTesting\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+F:\Projects\University\DIPLOMA\Testing\seleniumTesting\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+F:\Projects\University\DIPLOMA\Testing\seleniumTesting\UnitTestProject1\bin\Debug\selenium-manager\linux\selenium-manager
+F:\Projects\University\DIPLOMA\Testing\seleniumTesting\UnitTestProject1\bin\Debug\selenium-manager\macos\selenium-manager
+F:\Projects\University\DIPLOMA\Testing\seleniumTesting\UnitTestProject1\bin\Debug\selenium-manager\windows\selenium-manager.exe
+F:\Projects\University\DIPLOMA\Testing\seleniumTesting\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+F:\Projects\University\DIPLOMA\Testing\seleniumTesting\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+F:\Projects\University\DIPLOMA\Testing\seleniumTesting\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+F:\Projects\University\DIPLOMA\Testing\seleniumTesting\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+F:\Projects\University\DIPLOMA\Testing\seleniumTesting\UnitTestProject1\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+F:\Projects\University\DIPLOMA\Testing\seleniumTesting\UnitTestProject1\bin\Debug\SeleniumExtras.PageObjects.dll
+F:\Projects\University\DIPLOMA\Testing\seleniumTesting\UnitTestProject1\bin\Debug\SeleniumExtras.WaitHelpers.dll
+F:\Projects\University\DIPLOMA\Testing\seleniumTesting\UnitTestProject1\bin\Debug\WebDriver.dll
+F:\Projects\University\DIPLOMA\Testing\seleniumTesting\UnitTestProject1\bin\Debug\WebDriver.Support.dll
+F:\Projects\University\DIPLOMA\Testing\seleniumTesting\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+F:\Projects\University\DIPLOMA\Testing\seleniumTesting\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+F:\Projects\University\DIPLOMA\Testing\seleniumTesting\UnitTestProject1\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+F:\Projects\University\DIPLOMA\Testing\seleniumTesting\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.AssemblyReference.cache
+F:\Projects\University\DIPLOMA\Testing\seleniumTesting\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+F:\Projects\University\DIPLOMA\Testing\seleniumTesting\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
+F:\Projects\University\DIPLOMA\Testing\seleniumTesting\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+F:\Projects\University\DIPLOMA\Testing\seleniumTesting\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+F:\Projects\University\DIPLOMA\Testing\seleniumTesting\UnitTestProject1\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+F:\Projects\University\DIPLOMA\Testing\seleniumTesting\UnitTestProject1\bin\Debug\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+F:\Projects\University\DIPLOMA\Testing\seleniumTesting\UnitTestProject1\bin\Debug\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+F:\Projects\University\DIPLOMA\Testing\seleniumTesting\UnitTestProject1\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+F:\Projects\University\DIPLOMA\Testing\seleniumTesting\UnitTestProject1\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+F:\Projects\University\DIPLOMA\Testing\seleniumTesting\UnitTestProject1\bin\Debug\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+F:\Projects\University\DIPLOMA\Testing\seleniumTesting\UnitTestProject1\bin\Debug\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+F:\Projects\University\DIPLOMA\Testing\seleniumTesting\UnitTestProject1\bin\Debug\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+F:\Projects\University\DIPLOMA\Testing\seleniumTesting\UnitTestProject1\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+F:\Projects\University\DIPLOMA\Testing\seleniumTesting\UnitTestProject1\bin\Debug\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+F:\Projects\University\DIPLOMA\Testing\seleniumTesting\UnitTestProject1\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+F:\Projects\University\DIPLOMA\Testing\seleniumTesting\UnitTestProject1\bin\Debug\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+F:\Projects\University\DIPLOMA\Testing\seleniumTesting\UnitTestProject1\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+F:\Projects\University\DIPLOMA\Testing\seleniumTesting\UnitTestProject1\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll

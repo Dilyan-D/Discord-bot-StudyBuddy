@@ -1,2 +1,3 @@
-# Discord-bot-StudyBuddy
- My thesis (diploma) project, developed to graduate from "Angel Kanchev" University of Ruse
+# Diploma Project - Discord bot StudyBuddy
+ Please access Diploma Project.pdf for detailed information about the project.
+ Instructions on how to setup, start and use the bot can be found at pages 56-58.
